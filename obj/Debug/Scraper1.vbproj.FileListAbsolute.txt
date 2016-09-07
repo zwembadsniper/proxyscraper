@@ -1,0 +1,10 @@
+C:\Users\Frits\Documents\Visual Studio 2013\Projects\Scraper1\Scraper1\bin\Debug\Scraper1.exe.config
+C:\Users\Frits\Documents\Visual Studio 2013\Projects\Scraper1\Scraper1\bin\Debug\Scraper1.exe
+C:\Users\Frits\Documents\Visual Studio 2013\Projects\Scraper1\Scraper1\bin\Debug\Scraper1.pdb
+C:\Users\Frits\Documents\Visual Studio 2013\Projects\Scraper1\Scraper1\bin\Debug\Scraper1.xml
+C:\Users\Frits\Documents\Visual Studio 2013\Projects\Scraper1\Scraper1\obj\Debug\Scraper.Form1.resources
+C:\Users\Frits\Documents\Visual Studio 2013\Projects\Scraper1\Scraper1\obj\Debug\Scraper.Resources.resources
+C:\Users\Frits\Documents\Visual Studio 2013\Projects\Scraper1\Scraper1\obj\Debug\Scraper1.vbproj.GenerateResource.Cache
+C:\Users\Frits\Documents\Visual Studio 2013\Projects\Scraper1\Scraper1\obj\Debug\Scraper1.exe
+C:\Users\Frits\Documents\Visual Studio 2013\Projects\Scraper1\Scraper1\obj\Debug\Scraper1.xml
+C:\Users\Frits\Documents\Visual Studio 2013\Projects\Scraper1\Scraper1\obj\Debug\Scraper1.pdb
